@@ -1,6 +1,7 @@
 ---
+layout: default
+title: About
 ---
-{% include navigation.html %}
 
 # About page
 
